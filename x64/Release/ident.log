@@ -1,0 +1,7 @@
+﻿  ident.cpp
+C:\Users\stp\Desktop\cpp\ident\ident\ident.cpp(38,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 105 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ident.vcxproj -> C:\Users\stp\Desktop\cpp\ident\x64\Release\ident.exe

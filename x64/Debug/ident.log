@@ -1,0 +1,3 @@
+﻿  ident.cpp
+C:\Users\stp\Desktop\cpp\ident\ident\ident.cpp(38,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ident.vcxproj -> C:\Users\stp\Desktop\cpp\ident\x64\Debug\ident.exe
